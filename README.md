@@ -6,7 +6,7 @@ ChatBOX is an AI-powered chatbot platform, similar to ChatGPT or Claude, but wit
 
 1BDCIemul9zPUdhF5d3lPfSkQCROPQ7Gy
 
-(https://drive.google.com/uc?export=view&id=1BDCIemul9zPUdhF5d3lPfSkQCROPQ7Gy)
+https://drive.google.com/uc?export=view&id=1BDCIemul9zPUdhF5d3lPfSkQCROPQ7Gy
 
 (https://drive.google.com/file/d/1BDCIemul9zPUdhF5d3lPfSkQCROPQ7Gy/view?usp=sharing)
 
