@@ -4,7 +4,7 @@ ChatBOX is an AI-powered chatbot platform, similar to ChatGPT or Claude, but wit
 
 ## Demo Video
 
-[Watch the demo video](./ChatBOX-Llama-3.1_8b.mp4)
+(https://drive.google.com/file/d/1BDCIemul9zPUdhF5d3lPfSkQCROPQ7Gy/view?usp=sharing)
 
 ## Features
 - AI chatbot interface powered by LLaMA-3.1:8B.
